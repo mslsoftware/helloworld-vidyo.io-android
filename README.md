@@ -1,6 +1,8 @@
 # helloworld-vidyo.io-android
 Simple video chat application using Vidyo.io on Android
 
+> For an instructional video detailing how to build this app, take a look at this [Blog Post](https://vidyo.io/how-to/build-mobile-video-chat-app-android-minutes).
+
 ## Clone Repository
 git clone https://github.com/Vidyo/helloworld-vidyo.io-android.git
 
