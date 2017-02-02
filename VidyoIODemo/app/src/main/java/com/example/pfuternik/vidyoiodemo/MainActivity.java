@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements VidyoConnector.IC
     }
 
     public void Connect(View v) {
-        String token = "cHJvdmlzaW9uAGRlbW91c2VyX2MwNmJiNEBiM2QxNmUudmlkeW8uaW8ANjM2NTE0MzExMTUAADY5ZTlkNjhmODIwNGU5NTM4MjA5NjgwNjJjMzM3ODM2MDFhYzQ1ZGE5ZGYyNGE5YWVkYzUxOTc3ZTQwZmE5NzIyZWExOGI2ZTZkNTU5Nzk0MTg5NjdhM2MzYTVmZjNiOA==";
+        String token = "InsertValidTokenHere";
         vc.Connect("prod.vidyo.io", token, "DemoUser", "DemoRoom", this);
     }
 
